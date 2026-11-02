@@ -42,4 +42,4 @@ python scripts/run_guarded_smoke.py --pilot --device cpu --pilot-count 4 --timeo
 
 vendor配下の公式V-JEPA 2ソースは同梱の上流MIT noticeとpinned source manifestに従い、このroot licenseの対象外です。V-JEPA 2上流は一部の未vendor dataset utilityに別途Apache-2.0を指定しています。Hugging Face model cardはモデルをMITとして表示し、保存済みcheckpoint identityのSHA-256/sizeは同model repoの `original/model.pth` LFS記録と一致しますが、取得経路と署名検証は不明です。checkpointはrepositoryに含めていません。
 
-vendor内の第三者ソース、モデルcheckpoint、別途条件のある第三者素材には、このproject licenseを適用しません。V-JEPA 2の条件は[公式repository](https://github.com/facebookresearch/vjepa2)、モデルの条件は[official model card](https://huggingface.co/facebook/vjepa2-vitl-fpc64-256)を参照してください。
+vendor内の第三者ソース、モデルcheckpoint、別途条件のある第三者素材には、このproject licenseを適用しません。使われるPython依存の用途・確認できたversion・license・同梱有無は [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) に記録しています。モデル用依存のversion一式は固定しておらず、clean環境でのモデル再現を確認したものではありません。V-JEPA 2の条件は[公式repository](https://github.com/facebookresearch/vjepa2)、モデルの条件は[official model card](https://huggingface.co/facebook/vjepa2-vitl-fpc64-256)を参照してください。

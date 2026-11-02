@@ -1,7 +1,7 @@
 This license applies to the original project source code in `scripts/` and
-`tests/`, the project-authored `README.md`, the experiment reports included in
-the public snapshot, and the project-generated synthetic fixture data in
-`fixtures/`. It does not apply to vendored third-party files, model weights,
+`tests/`, the project-authored `README.md` and `THIRD_PARTY_NOTICES.md`, the
+experiment reports included in the public snapshot, and the project-generated
+synthetic fixture data in `fixtures/`. It does not apply to vendored third-party files, model weights,
 or other third-party materials that carry separate terms or notices. The
 README lists the included reports and the separate upstream notices.
 
