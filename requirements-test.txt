@@ -1,0 +1,3 @@
+# Small parser dependency used by the vendor-manifest contract test.
+# Install into a project-local virtual environment; this is not the model stack.
+PyYAML==6.0.3

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "correct_candidate_id": "candidate-3",
+  "rule": "constant horizontal velocity and constant vertical position through the gap",
+  "claim_scope": "synthetic generator rule only; not a unique real-world inference",
+  "ambiguous_by_visible_context": true,
+  "ambiguity_note": "All candidates share identical visible frames; additional motion assumptions define the synthetic rule answer."
+}

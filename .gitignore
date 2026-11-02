@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv*/
+.env
+.env.*
+artifacts/checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+/fixtures/pilot-20261101-v2/seed-*/frames/
+/fixtures/pilot-20261102-v1/seed-*/frames/
